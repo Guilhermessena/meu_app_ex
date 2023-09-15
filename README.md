@@ -1,1 +1,1 @@
-# Calculator with Dart
+# Media de alunos com tratamento de erros
